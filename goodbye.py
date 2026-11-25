@@ -1,1 +1,2 @@
-print("خدافس")
+print("goodbye")
+print("take care")
